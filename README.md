@@ -1,4 +1,4 @@
-<img width="176" height="61" alt="image" src="https://github.com/user-attachments/assets/70468d0b-25d2-4af7-aa2d-831e08e5712e" /># Домашняя работа КПВ Unreal Engine 5.
+# Домашняя работа КПВ Unreal Engine 5.
 
 Работу выполнил Девятов Денис Сергеевич БПИ-238.
 
